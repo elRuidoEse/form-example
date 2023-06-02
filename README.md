@@ -2,7 +2,7 @@
 <div aling="center">
 <img src="https://media.discordapp.net/attachments/689676081430921274/1113867403219189852/burofy_logo.jpeg">
 
-<p>Es una Web App que te ayuda a encontrar a un profesional en temas de materia legal de acuerdo a tus necesidades, velando siempre por tu confianza. Como profesional que ofrece servicios, te permite ampliar tu cartera de clientes y crear reputación en la misma plataforma gracias al sistema de reseñas. 
+<p>Es una Web App que te ayuda a encontrar a un profesional en temas de materia legal de acuerdo a tus necesidades, velando siempre por tu confianza. Como profesional que ofrece servicios, te permite ampliar tu cartera de clientes y crear reputación en la misma plataforma gracias al sistema de reseñas. De esta manera, Burofy permite la conexión entre ambos perfiles
 </p>
 </div>
 
@@ -33,5 +33,7 @@
 * Melisa Braslavsky <a href="https://www.linkedin.com/in/melisa-braslavsky/"><img src="https://img.shields.io/badge/_-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
 ## Deploy: 🚀🏁
+[Burofy](http://c11-18-ft-java-react-buro-fy-qkd2.vercel.app/) 
+
 ` http://c11-18-ft-java-react-buro-fy-qkd2.vercel.app/ `
 </hr>
